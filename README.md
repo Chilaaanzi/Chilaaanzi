@@ -1,4 +1,4 @@
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/90356316/164070683-979cfc54-a833-4c1e-a60e-333c27d348ab.png" alt=”my banner”>
+<img  src=”https://user-images.githubusercontent.com/90356316/164070683-979cfc54-a833-4c1e-a60e-333c27d348ab.png" alt=”my banner” width=”200" height=”200">
 
 <h2 align="center">
 I'm a  Web Developer 💻, Digital Artist 🎨, and logo Designer🎨 !
