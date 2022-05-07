@@ -6,8 +6,6 @@ I'm a  Web Developer 💻, Digital Artist 🎨, and logo Designer🎨 !
 
 ### IDE CHOICE
 
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
 I love the entire process of developing creative websites. I love the challenge of finding new ideas and turning them into artworks. i love gaming ,anime,motorcycles and customizations of my linux system.
                   
 ### SKILLS
