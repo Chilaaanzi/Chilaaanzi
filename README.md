@@ -1,7 +1,7 @@
 
 
 <h2 align="center">
-I'm a  Web Developer 💻, Digital Artist 🎨, and logo Designer🎨 !
+I'm a  Web Developer 💻, Digital Artist 🎨, and UX designer🎨 !
 </h2>
 
 ### IDE CHOICE
