@@ -54,7 +54,7 @@ Continuous learning is a core part of my journey, with ongoing projects from pla
 
 ### 📫 **Contact Information**  
 - **Business Line**: +260771923958  
-- **Email**: david.chilanzi@gmail.com  
+- **Email**: chilanzi11037@gmail.com  
 - **Tagline**: *"Simply a Creative"*  
 
 ---
