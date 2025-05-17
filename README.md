@@ -18,13 +18,13 @@ Outside of tech, I'm passionate about **gaming, anime, motorcycles**, and **cust
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  
 
 **Backend Development**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)   ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **API Development**  
-![REST API](https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge&logo=api&logoColor=white)  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge&logo=api&logoColor=white)  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 
 **DevOps & Server Management**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Digital Ocean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Digital Ocean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
 **Authentication & Authorization**  
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![Kinde](https://img.shields.io/badge/Kinde-000000?style=for-the-badge&logo=kinde&logoColor=white)  ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
@@ -52,10 +52,10 @@ Outside of tech, I'm passionate about **gaming, anime, motorcycles**, and **cust
 - **RESTful API** design with comprehensive documentation
 
 #### API Integration Gateway
-- Developed a centralized API gateway using **Express.js**
+- Developed a centralized API gateway using **NEXT.js**
 - Implemented authentication middleware with **JWT**
 - Designed microservices architecture
-- Deployed on **AWS** with load balancing
+- Deployed on **DIGITAL OCEAN** with load balancing
 - Monitoring and logging solutions for real-time performance tracking
 
 ---
@@ -80,8 +80,8 @@ Outside of tech, I'm passionate about **gaming, anime, motorcycles**, and **cust
 ### 📫 **Contact Information**  
 - **Business Line**: +260771923958  
 - **Email**: chilanzi11037@gmail.com  
-- **GitHub**: [github.com/yourusername](https://github.com/Chilanzi-thirt33n)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/chilanzi-sensenta-51bba2240)
+- **GitHub**: [chilanzi thirteen](https://github.com/Chilanzi-thirt33n)
+- **LinkedIn**: [chilanzi sensenta](https://linkedin.com/in/chilanzi-sensenta-51bba2240)
 - **Tagline**: *"Building robust solutions with elegant interfaces"*  
 
 ---
