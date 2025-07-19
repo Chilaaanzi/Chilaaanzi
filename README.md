@@ -63,7 +63,6 @@ Outside of tech, I'm passionate about **gaming, anime, motorcycles**, and **cust
 ### 🌱 **Currently Exploring**  
 - Advanced **Next.js** architectures and patterns
 - **Kubernetes** for container orchestration
-- **Serverless architectures** with AWS Lambda
 - **GraphQL** API optimization techniques
 - Dynamic **E-commerce Platforms** using **Firebase**
 
