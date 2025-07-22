@@ -18,12 +18,16 @@ Outside of tech, I'm passionate about **gaming, anime, motorcycles**, and **cust
 ---
 
 ### 💻 **Development Environment**  
+
 - **Operating System**: ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)  
 - **IDE**: ![Zed](https://img.shields.io/badge/Zed-1B1B1F?style=for-the-badge&logo=zed&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 - **Version Control**: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - **Containerization**: ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🌱 **Currently Exploring**  
+---
+
+### 🌱 **Currently Exploring** 
+
 - Advanced **Next.js** architectures and patterns
 - **Kubernetes** for container orchestration
 - **GraphQL** API optimization techniques
@@ -32,6 +36,7 @@ Outside of tech, I'm passionate about **gaming, anime, motorcycles**, and **cust
 ---
 
 ### 🤝 **Looking for Opportunities**  
+
 - Open to **collaborations** on full-stack development projects
 - Available for **consulting** on API design and server infrastructure
 - Interested in **remote roles** focused on **Next.js** and **React** ecosystems
@@ -40,6 +45,7 @@ Outside of tech, I'm passionate about **gaming, anime, motorcycles**, and **cust
 ---
 
 ### 📫 **Contact Information**  
+
 - **Business Line**: +260771923958  
 - **Email**: chilanzi11037@gmail.com  
 - **GitHub**: [chilanzi thirteen](https://github.com/Chilanzi-thirt33n)
