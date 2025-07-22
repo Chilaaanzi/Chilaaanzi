@@ -48,7 +48,7 @@ Outside of tech, I'm passionate about **gaming, anime, motorcycles**, and **cust
 
 - **Business Line**: +260771923958  
 - **Email**: chilanzi11037@gmail.com  
-- **GitHub**: [chilanzi thirteen](https://github.com/Chilanzi-thirt33n)
+- **GitHub**: [chilaaanzi](https://github.com/Chilaaanzi)
 - **LinkedIn**: [chilanzi sensenta](https://linkedin.com/in/chilanzi-sensenta-51bba2240)
 - **Tagline**: *"Building robust solutions with elegant interfaces"*  
 
