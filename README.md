@@ -11,9 +11,8 @@ Outside of tech, I'm passionate about **gaming, anime, motorcycles**, and **cust
 
 ---
 
-### 💼 **Core Competencies**  
+### 💼 **Core Competencies and Technologies**  
 
-**Frontend Development**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)   ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![REST API](https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge&logo=api&logoColor=white)  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Digital Ocean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![Kinde](https://img.shields.io/badge/Kinde-000000?style=for-the-badge&logo=kinde&logoColor=white)  ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)  ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)  
 
 ---
@@ -23,26 +22,6 @@ Outside of tech, I'm passionate about **gaming, anime, motorcycles**, and **cust
 - **IDE**: ![Zed](https://img.shields.io/badge/Zed-1B1B1F?style=for-the-badge&logo=zed&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 - **Version Control**: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - **Containerization**: ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 🚀 **Project Highlights**
-
-#### Full-Stack E-commerce Platform
-- Built with **Next.js**, **React**, and **Node.js**
-- Server-side rendering for optimal performance and SEO
-- Containerized with **Docker** for seamless deployment
-- CI/CD pipeline implementation for automated testing and deployment
-- **RESTful API** design with comprehensive documentation
-
-#### API Integration Gateway
-- Developed a centralized API gateway using **NEXT.js**
-- Implemented authentication middleware with **JWT**
-- Designed microservices architecture
-- Deployed on **DIGITAL OCEAN** with load balancing
-- Monitoring and logging solutions for real-time performance tracking
-
----
 
 ### 🌱 **Currently Exploring**  
 - Advanced **Next.js** architectures and patterns
