@@ -1,5 +1,5 @@
-# Welcome! I'm David Chilanzi Sensenta 👨‍💻🎨
-##Full-Stack Developer | DevOps Specialist | UX/UI Designer | Digital Illustrator
+# Welcome! I'm David Chilanzi Sensenta
+## Full-Stack Developer | DevOps Specialist | UX/UI Designer | Digital Illustrator
 
 
 ---
